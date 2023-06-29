@@ -1,5 +1,5 @@
 # DAS_ice
-Here I provide a minimal example code to generate features using InceptionV3, load the trained model and classify some scalograms. 
+Here I provide a code example to generate features using InceptionV3, load the trained model and classify some scalograms. 
 There are some packages that need to be installed in order to run the code: numpy, tensorflow, scikit-learn, tqdm, yellowbrick, etc.
 All functions are inside "run_all.py". 
 final_images contain scalograms for the entire two weeks for two channnels: 00350 (distance = 0.59 km) and 15550 (dist = 31.62 km)
